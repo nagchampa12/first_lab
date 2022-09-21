@@ -1,0 +1,3 @@
+﻿  app3.c
+M:\projects\app3\app3\app3.c(17,2): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  app3.vcxproj -> M:\projects\app3\x64\Debug\app3.exe
